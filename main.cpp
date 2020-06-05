@@ -691,8 +691,8 @@ void display(){
 
 	//add objects
 
-	drawAxes();
-	drawGrid();
+	// drawAxes();
+	// drawGrid();
 
     // glTranslatef(-40,0,0);
     // drawCanonBall();
